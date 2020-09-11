@@ -1,0 +1,14 @@
+	 {
+	 	"VCAP_APPLICATION": {
+		 "instance_id":"2ce0ac627a6c8e47e936d829a3a47b5b",
+		 "instance_index":0,
+		 "version":"0138c4a6-2a73-416b-aca0-572c09f7ca53",
+		 "name":"foo",
+		 "limits":{
+			 "mem":"512",
+			 "disk":"1024"
+		 },
+		 "space_name":"defaultSpace",
+		 "uris":["foo.cfapps.io"]
+	 }
+ }

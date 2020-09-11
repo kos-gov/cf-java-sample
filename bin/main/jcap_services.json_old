@@ -1,0 +1,18 @@
+{
+	 "VCAP_SERVICES": {
+	 	"cfSampleSpringBoot":[{
+		 	"name":"cfSampleSpringBoot",
+		 	"label":"cfSampleSpringBoot",
+		 	"plan":"855mb",
+		    "credentials":{
+			   "name":"d04fb13d27d964c62b267bbba1cffb9da",
+			   "hostname":"localhost",
+			   "host":"localhost",
+			   "port":8888,
+			   "user":"urpRuqTf8Cpe6",
+			   "username":"urpRuqTf8Cpe6",
+			   "password":"pxLsGVpsC9A5S"
+			}
+		}]
+	}
+}

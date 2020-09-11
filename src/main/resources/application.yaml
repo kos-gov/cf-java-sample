@@ -1,0 +1,22 @@
+# proprty file
+
+application:
+    version: 1.0.0
+    title: CF Spring Boot Sample
+
+spring:
+    thymeleaf:
+        cache: false
+    mvc:
+        favicon:
+            enabled: false
+
+server:
+    port: 8080
+    servlet:
+        context-path: /
+        session:
+            timeout: 60
+    tomcat:
+        uri-encoding: UTF-8
+

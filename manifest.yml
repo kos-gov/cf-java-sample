@@ -1,0 +1,6 @@
+---
+applications:
+- name: cf-spring-boot
+  memory: 512M
+  instances: 1
+  random-route: true
